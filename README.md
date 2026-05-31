@@ -58,6 +58,12 @@ Excel report containing:
 
 ---
 
+## Output
+
+Screenshots attached
+
+---
+
 ## Installation
 
 Install required packages:
