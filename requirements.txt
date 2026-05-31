@@ -1,0 +1,4 @@
+AbuseIPDB webiste and API key
+Excel sheet contains a bulk IP range
+Python3
+Pandas
